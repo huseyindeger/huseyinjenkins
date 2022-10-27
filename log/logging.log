@@ -1,0 +1,473 @@
+2022-10-11 12:57:01 INFO  OrangeHRMHome:62 - Bahar is successfully entered
+2022-10-11 12:57:01 INFO  OrangeHRMHome:68 - Reanstech is successfully entered
+2022-10-11 12:57:04 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-11 12:57:06 INFO  OrangeHRMHome:78 - Personal Details is expected header and successfully verified
+2022-10-11 13:15:51 INFO  Hooks:18 - Driver is successfully started
+2022-10-11 13:15:52 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-11 13:15:57 INFO  OrangeHRMHome:62 - Shahnaz is successfully entered
+2022-10-11 13:15:57 INFO  OrangeHRMHome:68 - Renastech is successfully entered
+2022-10-11 13:15:59 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-11 13:16:00 INFO  OrangeHRMSteps:90 - username,password and status of account provided successfully
+2022-10-11 13:16:01 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-11 13:29:46 INFO  Hooks:18 - Driver is successfully started
+2022-10-11 13:29:48 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-11 13:29:54 INFO  OrangeHRMHome:62 - Bahar is successfully entered
+2022-10-11 13:29:54 INFO  OrangeHRMHome:68 - Reanstech is successfully entered
+2022-10-11 13:29:56 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-11 13:29:58 INFO  OrangeHRMHome:78 - Personal Details is expected header and successfully verified
+2022-10-11 13:29:58 INFO  Hooks:18 - Driver is successfully started
+2022-10-11 13:29:58 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-11 13:30:03 INFO  OrangeHRMHome:62 - Shahnaz is successfully entered
+2022-10-11 13:30:03 INFO  OrangeHRMHome:68 - Renastech is successfully entered
+2022-10-11 13:30:04 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-11 13:30:05 INFO  OrangeHRMSteps:90 - username,password and status of account provided successfully
+2022-10-11 13:30:06 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-11 13:30:14 INFO  Hooks:18 - Driver is successfully started
+2022-10-11 13:30:15 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-11 13:30:19 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-11 13:30:20 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-11 13:30:21 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-11 13:30:24 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-11 13:34:14 INFO  Hooks:18 - Driver is successfully started
+2022-10-11 13:34:16 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-11 13:34:21 INFO  OrangeHRMHome:62 - Shahnaz is successfully entered
+2022-10-11 13:34:21 INFO  OrangeHRMHome:68 - Renastech is successfully entered
+2022-10-11 13:34:22 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-11 13:34:23 INFO  OrangeHRMSteps:90 - username,password and status of account provided successfully
+2022-10-11 13:34:25 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-11 13:34:33 INFO  Hooks:18 - Driver is successfully started
+2022-10-11 13:34:34 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-11 13:34:38 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-11 13:34:38 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-11 13:34:39 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-11 13:34:42 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-11 13:47:12 INFO  Hooks:18 - Driver is successfully started
+2022-10-11 13:47:14 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-11 13:47:20 INFO  OrangeHRMHome:62 - Bahar is successfully entered
+2022-10-11 13:47:20 INFO  OrangeHRMHome:68 - Reanstech is successfully entered
+2022-10-11 13:47:22 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-11 13:47:24 INFO  OrangeHRMHome:78 - Personal Details is expected header and successfully verified
+2022-10-11 13:47:24 INFO  Hooks:18 - Driver is successfully started
+2022-10-11 13:47:25 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-11 13:47:29 INFO  OrangeHRMHome:62 - Shahnaz is successfully entered
+2022-10-11 13:47:29 INFO  OrangeHRMHome:68 - Renastech is successfully entered
+2022-10-11 13:47:30 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-11 13:47:32 INFO  OrangeHRMSteps:90 - username,password and status of account provided successfully
+2022-10-11 13:47:33 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-11 13:47:41 INFO  Hooks:18 - Driver is successfully started
+2022-10-11 13:47:42 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-11 13:47:46 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-11 13:47:46 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-11 13:47:47 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-11 13:47:50 INFO  OrangeHRMHome:73 - save button successfully clicked
+2022-10-12 14:28:19 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:28:21 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:28:26 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:28:26 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:28:28 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:28:28 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:28:33 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:28:34 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:28:39 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:28:39 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:28:40 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:28:40 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:28:45 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:28:46 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:28:50 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:28:50 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:28:51 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:28:51 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:28:57 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:28:58 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:29:02 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:29:02 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:29:03 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:29:03 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:29:09 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:29:09 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:29:14 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:29:14 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:29:15 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:29:15 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:29:20 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:29:21 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:29:25 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:29:25 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:29:27 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:29:27 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:39:51 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:39:53 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:39:58 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:39:58 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:39:59 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:39:59 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:39:59 INFO  OrangeHRMSteps:112 - Huseyin123 is provided as username
+2022-10-12 14:39:59 INFO  OrangeHRMSteps:114 - bjdka is provided as password
+2022-10-12 14:40:01 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:40:01 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:40:06 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:40:06 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:40:07 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:40:07 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:40:07 INFO  OrangeHRMSteps:112 - Ahmet is provided as username
+2022-10-12 14:40:07 INFO  OrangeHRMSteps:114 - kjdgdhvd is provided as password
+2022-10-12 14:40:08 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:40:09 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:40:14 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:40:14 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:40:15 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:40:15 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:40:15 INFO  OrangeHRMSteps:112 - Mazlumsd is provided as username
+2022-10-12 14:40:15 INFO  OrangeHRMSteps:114 - k341dhvd is provided as password
+2022-10-12 14:40:16 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:40:17 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:40:21 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:40:21 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:40:22 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:40:22 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:40:22 INFO  OrangeHRMSteps:112 - Alikodjf is provided as username
+2022-10-12 14:40:22 INFO  OrangeHRMSteps:114 - kv323dgd is provided as password
+2022-10-12 14:40:24 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:40:24 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:40:29 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:40:29 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:40:30 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:40:30 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:40:30 INFO  OrangeHRMSteps:112 - Yasdb is provided as username
+2022-10-12 14:40:30 INFO  OrangeHRMSteps:114 - dgdhdfdd is provided as password
+2022-10-12 14:40:31 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:40:32 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:40:36 INFO  OrangeHRMHome:62 - Serhat is successfully entered
+2022-10-12 14:40:36 INFO  OrangeHRMHome:68 - Renastech23$ is successfully entered
+2022-10-12 14:40:37 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:40:37 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:40:37 INFO  OrangeHRMSteps:112 - Serjnsd is provided as username
+2022-10-12 14:40:37 INFO  OrangeHRMSteps:114 - 1454jdfd is provided as password
+2022-10-12 14:47:41 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:47:43 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:47:48 INFO  OrangeHRMHome:62 - reanstech is successfully entered
+2022-10-12 14:47:48 INFO  OrangeHRMSteps:122 - reanstech is provided as username
+2022-10-12 14:47:48 INFO  OrangeHRMHome:68 - renas is successfully entered
+2022-10-12 14:47:48 INFO  OrangeHRMSteps:124 - reanstech is provided successfully
+2022-10-12 14:47:48 INFO  OrangeHRMSteps:125 - renas is provided as lastname
+2022-10-12 14:47:49 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:47:49 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:47:50 INFO  OrangeHRMSteps:112 - Huseyin123 is provided as username
+2022-10-12 14:47:50 INFO  OrangeHRMSteps:114 - bjdka is provided as password
+2022-10-12 14:47:51 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:47:52 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:47:56 INFO  OrangeHRMHome:62 - Yaseen is successfully entered
+2022-10-12 14:47:56 INFO  OrangeHRMSteps:122 - Yaseen is provided as username
+2022-10-12 14:47:56 INFO  OrangeHRMHome:68 - renastech is successfully entered
+2022-10-12 14:47:56 INFO  OrangeHRMSteps:124 - Yaseen is provided successfully
+2022-10-12 14:47:56 INFO  OrangeHRMSteps:125 - renastech is provided as lastname
+2022-10-12 14:47:57 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:47:57 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:47:57 INFO  OrangeHRMSteps:112 - Ahmet is provided as username
+2022-10-12 14:47:57 INFO  OrangeHRMSteps:114 - kjdgdhvd is provided as password
+2022-10-12 14:47:59 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:47:59 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:48:04 INFO  OrangeHRMHome:62 - Bahar is successfully entered
+2022-10-12 14:48:04 INFO  OrangeHRMSteps:122 - Bahar is provided as username
+2022-10-12 14:48:04 INFO  OrangeHRMHome:68 - uludag is successfully entered
+2022-10-12 14:48:04 INFO  OrangeHRMSteps:124 - Bahar is provided successfully
+2022-10-12 14:48:04 INFO  OrangeHRMSteps:125 - uludag is provided as lastname
+2022-10-12 14:48:05 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:48:05 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:48:05 INFO  OrangeHRMSteps:112 - Mazlumsd is provided as username
+2022-10-12 14:48:05 INFO  OrangeHRMSteps:114 - k341dhvd is provided as password
+2022-10-12 14:48:07 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:48:08 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:48:12 INFO  OrangeHRMHome:62 - Banu is successfully entered
+2022-10-12 14:48:12 INFO  OrangeHRMSteps:122 - Banu is provided as username
+2022-10-12 14:48:12 INFO  OrangeHRMHome:68 - yildiz is successfully entered
+2022-10-12 14:48:12 INFO  OrangeHRMSteps:124 - Banu is provided successfully
+2022-10-12 14:48:12 INFO  OrangeHRMSteps:125 - yildiz is provided as lastname
+2022-10-12 14:48:13 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:48:13 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:48:13 INFO  OrangeHRMSteps:112 - Alikodjf is provided as username
+2022-10-12 14:48:14 INFO  OrangeHRMSteps:114 - kv323dgd is provided as password
+2022-10-12 14:48:15 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:48:15 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:48:20 INFO  OrangeHRMHome:62 - yildiz is successfully entered
+2022-10-12 14:48:20 INFO  OrangeHRMSteps:122 - yildiz is provided as username
+2022-10-12 14:48:20 INFO  OrangeHRMHome:68 - tilbe is successfully entered
+2022-10-12 14:48:20 INFO  OrangeHRMSteps:124 - yildiz is provided successfully
+2022-10-12 14:48:20 INFO  OrangeHRMSteps:125 - tilbe is provided as lastname
+2022-10-12 14:48:21 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:48:21 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:48:21 INFO  OrangeHRMSteps:112 - Yasdb is provided as username
+2022-10-12 14:48:21 INFO  OrangeHRMSteps:114 - dgdhdfdd is provided as password
+2022-10-12 14:48:22 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:48:23 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:48:27 INFO  OrangeHRMHome:62 - huseyin is successfully entered
+2022-10-12 14:48:27 INFO  OrangeHRMSteps:122 - huseyin is provided as username
+2022-10-12 14:48:27 INFO  OrangeHRMHome:68 - deger is successfully entered
+2022-10-12 14:48:27 INFO  OrangeHRMSteps:124 - huseyin is provided successfully
+2022-10-12 14:48:27 INFO  OrangeHRMSteps:125 - deger is provided as lastname
+2022-10-12 14:48:28 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:48:28 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:48:28 INFO  OrangeHRMSteps:112 - Serjnsd is provided as username
+2022-10-12 14:48:28 INFO  OrangeHRMSteps:114 - 1454jdfd is provided as password
+2022-10-12 14:52:54 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:52:56 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:53:01 INFO  OrangeHRMHome:62 - reanstech is successfully entered
+2022-10-12 14:53:01 INFO  OrangeHRMSteps:122 - reanstech is provided as username
+2022-10-12 14:53:02 INFO  OrangeHRMHome:68 - renas is successfully entered
+2022-10-12 14:53:02 INFO  OrangeHRMSteps:124 - reanstech is provided successfully
+2022-10-12 14:53:02 INFO  OrangeHRMSteps:125 - renas is provided as lastname
+2022-10-12 14:53:03 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:53:03 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:53:03 INFO  OrangeHRMSteps:112 - Huseyin123 is provided as username
+2022-10-12 14:53:03 INFO  OrangeHRMSteps:114 - bjdka is provided as password
+2022-10-12 14:53:04 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:53:05 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:53:09 INFO  OrangeHRMHome:62 - Yaseen is successfully entered
+2022-10-12 14:53:09 INFO  OrangeHRMSteps:122 - Yaseen is provided as username
+2022-10-12 14:53:09 INFO  OrangeHRMHome:68 - renastech is successfully entered
+2022-10-12 14:53:09 INFO  OrangeHRMSteps:124 - Yaseen is provided successfully
+2022-10-12 14:53:09 INFO  OrangeHRMSteps:125 - renastech is provided as lastname
+2022-10-12 14:53:10 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:53:10 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:53:10 INFO  OrangeHRMSteps:112 - Ahmet is provided as username
+2022-10-12 14:53:11 INFO  OrangeHRMSteps:114 - kjdgdhvd is provided as password
+2022-10-12 14:53:13 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:53:14 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:53:19 INFO  OrangeHRMHome:62 - Bahar is successfully entered
+2022-10-12 14:53:19 INFO  OrangeHRMSteps:122 - Bahar is provided as username
+2022-10-12 14:53:19 INFO  OrangeHRMHome:68 - uludag is successfully entered
+2022-10-12 14:53:19 INFO  OrangeHRMSteps:124 - Bahar is provided successfully
+2022-10-12 14:53:19 INFO  OrangeHRMSteps:125 - uludag is provided as lastname
+2022-10-12 14:53:20 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:53:20 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:53:20 INFO  OrangeHRMSteps:112 - Mazlumsd is provided as username
+2022-10-12 14:53:20 INFO  OrangeHRMSteps:114 - k341dhvd is provided as password
+2022-10-12 14:53:22 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:53:22 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:53:26 INFO  OrangeHRMHome:62 - Banu is successfully entered
+2022-10-12 14:53:26 INFO  OrangeHRMSteps:122 - Banu is provided as username
+2022-10-12 14:53:26 INFO  OrangeHRMHome:68 - yildiz is successfully entered
+2022-10-12 14:53:26 INFO  OrangeHRMSteps:124 - Banu is provided successfully
+2022-10-12 14:53:26 INFO  OrangeHRMSteps:125 - yildiz is provided as lastname
+2022-10-12 14:53:27 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:53:27 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:53:27 INFO  OrangeHRMSteps:112 - Alikodjf is provided as username
+2022-10-12 14:53:27 INFO  OrangeHRMSteps:114 - kv323dgd is provided as password
+2022-10-12 14:53:29 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:53:29 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:53:34 INFO  OrangeHRMHome:62 - yildiz is successfully entered
+2022-10-12 14:53:34 INFO  OrangeHRMSteps:122 - yildiz is provided as username
+2022-10-12 14:53:34 INFO  OrangeHRMHome:68 - tilbe is successfully entered
+2022-10-12 14:53:34 INFO  OrangeHRMSteps:124 - yildiz is provided successfully
+2022-10-12 14:53:34 INFO  OrangeHRMSteps:125 - tilbe is provided as lastname
+2022-10-12 14:53:35 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:53:35 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:53:35 INFO  OrangeHRMSteps:112 - Yasdb is provided as username
+2022-10-12 14:53:35 INFO  OrangeHRMSteps:114 - dgdhdfdd is provided as password
+2022-10-12 14:53:37 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 14:53:37 INFO  OrangeHRMSteps:31 - username and password provided successfully
+2022-10-12 14:53:42 INFO  OrangeHRMHome:62 - huseyin is successfully entered
+2022-10-12 14:53:42 INFO  OrangeHRMSteps:122 - huseyin is provided as username
+2022-10-12 14:53:42 INFO  OrangeHRMHome:68 - deger is successfully entered
+2022-10-12 14:53:42 INFO  OrangeHRMSteps:124 - huseyin is provided successfully
+2022-10-12 14:53:42 INFO  OrangeHRMSteps:125 - deger is provided as lastname
+2022-10-12 14:53:43 INFO  OrangeHRMHome:83 - Create login button was successfully clicked
+2022-10-12 14:53:43 INFO  OrangeHRMSteps:110 - add login button is clicked successfully
+2022-10-12 14:53:43 INFO  OrangeHRMSteps:112 - Serjnsd is provided as username
+2022-10-12 14:53:43 INFO  OrangeHRMSteps:114 - 1454jdfd is provided as password
+2022-10-12 15:51:39 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 15:51:42 INFO  OrangeHRMSteps:34 - username and password provided successfully
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:50 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 15:51:51 INFO  OrangeHRMSteps:34 - username and password provided successfully
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:58 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:59 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:59 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:59 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:59 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:51:59 INFO  Hooks:18 - Driver is successfully started
+2022-10-12 15:51:59 INFO  OrangeHRMSteps:34 - username and password provided successfully
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:06 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:07 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:07 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:07 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:07 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:07 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-12 15:52:07 ERROR OrangeHRMAdmin:58 - Nationality provided is not found in the records
+2022-10-13 12:52:15 INFO  Hooks:18 - Driver is successfully started
+2022-10-13 12:52:17 INFO  OrangeHRMSteps:34 - username and password provided successfully
+2022-10-13 12:52:23 INFO  OrangeHRMHome:63 - Bahar is successfully entered
+2022-10-13 12:52:23 INFO  OrangeHRMHome:69 - Reanstech is successfully entered
+2022-10-13 12:52:25 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-13 12:52:27 INFO  OrangeHRMHome:79 - Personal Details is expected header and successfully verified
+2022-10-13 12:52:27 INFO  Hooks:18 - Driver is successfully started
+2022-10-13 12:52:28 INFO  OrangeHRMSteps:34 - username and password provided successfully
+2022-10-13 12:52:33 INFO  OrangeHRMHome:63 - Shahnaz is successfully entered
+2022-10-13 12:52:33 INFO  OrangeHRMHome:69 - Renastech is successfully entered
+2022-10-13 12:52:35 INFO  OrangeHRMHome:84 - Create login button was successfully clicked
+2022-10-13 12:52:36 INFO  OrangeHRMSteps:93 - username,password and status of account provided successfully
+2022-10-13 12:52:38 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-13 12:53:24 INFO  Hooks:18 - Driver is successfully started
+2022-10-13 12:53:26 INFO  OrangeHRMSteps:34 - username and password provided successfully
+2022-10-13 12:53:32 INFO  OrangeHRMHome:63 - Bahar is successfully entered
+2022-10-13 12:53:32 INFO  OrangeHRMHome:69 - Reanstech is successfully entered
+2022-10-13 12:53:34 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-13 12:53:36 INFO  OrangeHRMHome:79 - Personal Details is expected header and successfully verified
+2022-10-13 12:53:36 INFO  Hooks:18 - Driver is successfully started
+2022-10-13 12:53:37 INFO  OrangeHRMSteps:34 - username and password provided successfully
+2022-10-13 12:53:41 INFO  OrangeHRMHome:63 - Shahnaz is successfully entered
+2022-10-13 12:53:41 INFO  OrangeHRMHome:69 - Renastech is successfully entered
+2022-10-13 12:53:42 INFO  OrangeHRMHome:84 - Create login button was successfully clicked
+2022-10-13 12:53:44 INFO  OrangeHRMSteps:93 - username,password and status of account provided successfully
+2022-10-13 12:53:46 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-14 14:17:46 INFO  Hooks:18 - Driver is successfully started
+2022-10-14 16:34:10 INFO  Hooks:18 - Driver is successfully started
+2022-10-14 16:43:47 INFO  Hooks:18 - Driver is successfully started
+2022-10-14 16:43:52 INFO  OrangeHRMSteps:39 - username and password provided successfully
+2022-10-14 16:43:54 INFO  Hooks:18 - Driver is successfully started
+2022-10-14 16:43:57 INFO  OrangeHRMSteps:39 - username and password provided successfully
+2022-10-14 16:44:00 INFO  OrangeHRMHome:63 - Bahar is successfully entered
+2022-10-14 16:44:00 INFO  OrangeHRMHome:69 - Reanstech is successfully entered
+2022-10-14 16:44:03 INFO  OrangeHRMHome:63 - Bahar is successfully entered
+2022-10-14 16:44:03 INFO  OrangeHRMHome:69 - Reanstech is successfully entered
+2022-10-14 16:44:03 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-14 16:44:05 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-14 16:44:05 INFO  OrangeHRMHome:79 - Personal Details is expected header and successfully verified
+2022-10-14 16:44:05 INFO  Hooks:18 - Driver is successfully started
+2022-10-14 16:44:06 INFO  OrangeHRMSteps:39 - username and password provided successfully
+2022-10-14 16:44:07 INFO  OrangeHRMHome:79 - Personal Details is expected header and successfully verified
+2022-10-14 16:44:07 INFO  Hooks:18 - Driver is successfully started
+2022-10-14 16:44:08 INFO  OrangeHRMSteps:39 - username and password provided successfully
+2022-10-14 16:44:11 INFO  OrangeHRMHome:63 - Shahnaz is successfully entered
+2022-10-14 16:44:11 INFO  OrangeHRMHome:69 - Renastech is successfully entered
+2022-10-14 16:44:12 INFO  OrangeHRMHome:84 - Create login button was successfully clicked
+2022-10-14 16:44:13 INFO  OrangeHRMHome:63 - Shahnaz is successfully entered
+2022-10-14 16:44:13 INFO  OrangeHRMHome:69 - Renastech is successfully entered
+2022-10-14 16:44:14 INFO  OrangeHRMSteps:98 - username,password and status of account provided successfully
+2022-10-14 16:44:14 INFO  OrangeHRMHome:84 - Create login button was successfully clicked
+2022-10-14 16:44:15 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-14 16:44:15 INFO  OrangeHRMSteps:98 - username,password and status of account provided successfully
+2022-10-14 16:44:17 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-14 16:44:23 INFO  Hooks:18 - Driver is successfully started
+2022-10-14 16:44:25 INFO  OrangeHRMSteps:39 - username and password provided successfully
+2022-10-14 16:44:29 INFO  OrangeHRMHome:63 - Serhat is successfully entered
+2022-10-14 16:44:29 INFO  OrangeHRMHome:69 - Renastech23$ is successfully entered
+2022-10-14 16:44:30 INFO  OrangeHRMHome:84 - Create login button was successfully clicked
+2022-10-14 16:44:33 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-17 12:45:22 INFO  Hooks:18 - Driver is successfully started
+2022-10-17 12:45:23 INFO  Practice_Steps:26 - username provided successfully
+2022-10-17 12:45:23 INFO  Practice_Steps:28 - password provided successfully
+2022-10-17 12:45:26 INFO  Practice_Steps:30 - Login Button clicked successfully
+2022-10-17 12:45:28 INFO  Practice_Steps:36 - PIM Module provided successfully
+2022-10-17 12:47:00 INFO  Hooks:18 - Driver is successfully started
+2022-10-17 12:47:01 INFO  Practice_Steps:26 - username provided successfully
+2022-10-17 12:47:01 INFO  Practice_Steps:28 - password provided successfully
+2022-10-17 12:47:04 INFO  Practice_Steps:30 - Login Button clicked successfully
+2022-10-17 12:47:06 INFO  Practice_Steps:36 - PIM Module provided successfully
+2022-10-17 12:47:07 INFO  Practice_Steps:42 - Add Employee Header provided successfully
+2022-10-17 12:49:21 INFO  Hooks:18 - Driver is successfully started
+2022-10-17 12:49:23 INFO  Practice_Steps:26 - username provided successfully
+2022-10-17 12:49:23 INFO  Practice_Steps:28 - password provided successfully
+2022-10-17 12:49:26 INFO  Practice_Steps:30 - Login Button clicked successfully
+2022-10-17 12:49:27 INFO  Practice_Steps:36 - PIM Module provided successfully
+2022-10-17 12:49:29 INFO  Practice_Steps:42 - Add Employee Header provided successfully
+2022-10-17 12:51:05 INFO  Hooks:18 - Driver is successfully started
+2022-10-17 12:51:07 INFO  Practice_Steps:26 - username provided successfully
+2022-10-17 12:51:07 INFO  Practice_Steps:28 - password provided successfully
+2022-10-17 12:51:09 INFO  Practice_Steps:30 - Login Button clicked successfully
+2022-10-17 12:51:11 INFO  Practice_Steps:36 - PIM Module provided successfully
+2022-10-17 12:51:12 INFO  Practice_Steps:42 - Add Employee Header provided successfully
+2022-10-17 12:54:11 INFO  Hooks:18 - Driver is successfully started
+2022-10-17 12:54:12 INFO  Practice_Steps:26 - username provided successfully
+2022-10-17 12:54:12 INFO  Practice_Steps:28 - password provided successfully
+2022-10-17 12:54:15 INFO  Practice_Steps:30 - Login Button clicked successfully
+2022-10-17 12:54:17 INFO  Practice_Steps:36 - PIM Module provided successfully
+2022-10-17 12:54:18 INFO  Practice_Steps:42 - Add Employee Header provided successfully
+2022-10-17 12:54:18 INFO  Practice_Steps:47 - employee's name provided successfully
+2022-10-17 12:54:18 INFO  Practice_Steps:49 - employee's last name provided successfully
+2022-10-17 12:54:19 INFO  Practice_Steps:54 - Save Button clicked successfully
+2022-10-17 13:10:35 INFO  Hooks:18 - Driver is successfully started
+2022-10-17 13:10:36 INFO  Practice_Steps:27 - username provided successfully
+2022-10-17 13:10:36 INFO  Practice_Steps:29 - password provided successfully
+2022-10-17 13:10:39 INFO  Practice_Steps:31 - Login Button clicked successfully
+2022-10-17 13:10:41 INFO  Practice_Steps:37 - PIM Module provided successfully
+2022-10-17 13:10:42 INFO  Practice_Steps:43 - Add Employee Header provided successfully
+2022-10-17 13:10:42 INFO  Practice_Steps:61 - Employee's first name provided successfully
+2022-10-17 13:10:42 INFO  Practice_Steps:63 - Employee's last name provided successfully
+2022-10-17 13:10:43 INFO  Practice_Steps:55 - Save Button clicked successfully
+2022-10-17 13:16:32 INFO  Hooks:18 - Driver is successfully started
+2022-10-17 13:16:34 INFO  Practice_Steps:27 - username provided successfully
+2022-10-17 13:16:34 INFO  Practice_Steps:29 - password provided successfully
+2022-10-17 13:16:36 INFO  Practice_Steps:31 - Login Button clicked successfully
+2022-10-17 13:16:38 INFO  Practice_Steps:37 - PIM Module provided successfully
+2022-10-17 13:16:40 INFO  Practice_Steps:43 - Add Employee Header provided successfully
+2022-10-17 13:16:40 INFO  Practice_Steps:69 - employee's name provided successfully
+2022-10-17 13:16:40 INFO  Practice_Steps:71 - employee's last name provided successfully
+2022-10-17 13:16:41 INFO  Practice_Steps:55 - Save Button clicked successfully
+2022-10-17 13:16:41 INFO  Hooks:18 - Driver is successfully started
+2022-10-17 13:16:42 INFO  Practice_Steps:27 - username provided successfully
+2022-10-17 13:16:42 INFO  Practice_Steps:29 - password provided successfully
+2022-10-17 13:16:44 INFO  Practice_Steps:31 - Login Button clicked successfully
+2022-10-17 13:16:46 INFO  Practice_Steps:37 - PIM Module provided successfully
+2022-10-17 13:16:47 INFO  Practice_Steps:43 - Add Employee Header provided successfully
+2022-10-17 13:16:47 INFO  Practice_Steps:69 - employee's name provided successfully
+2022-10-17 13:16:47 INFO  Practice_Steps:71 - employee's last name provided successfully
+2022-10-17 13:16:48 INFO  Practice_Steps:55 - Save Button clicked successfully
+2022-10-17 13:16:48 INFO  Hooks:18 - Driver is successfully started
+2022-10-17 13:16:49 INFO  Practice_Steps:27 - username provided successfully
+2022-10-17 13:16:49 INFO  Practice_Steps:29 - password provided successfully
+2022-10-17 13:16:51 INFO  Practice_Steps:31 - Login Button clicked successfully
+2022-10-17 13:16:52 INFO  Practice_Steps:37 - PIM Module provided successfully
+2022-10-17 13:16:54 INFO  Practice_Steps:43 - Add Employee Header provided successfully
+2022-10-17 13:16:54 INFO  Practice_Steps:69 - employee's name provided successfully
+2022-10-17 13:16:54 INFO  Practice_Steps:71 - employee's last name provided successfully
+2022-10-17 13:16:55 INFO  Practice_Steps:55 - Save Button clicked successfully
+2022-10-20 10:00:23 INFO  Hooks:18 - Driver is successfully started
+2022-10-24 13:33:36 INFO  Hooks:18 - Driver is successfully started
+2022-10-24 13:33:39 INFO  OrangeHRMSteps:39 - username and password provided successfully
+2022-10-24 13:33:45 INFO  OrangeHRMHome:63 - Bahar is successfully entered
+2022-10-24 13:33:45 INFO  OrangeHRMHome:69 - Reanstech is successfully entered
+2022-10-24 13:33:47 INFO  OrangeHRMHome:74 - save button successfully clicked
+2022-10-24 13:33:49 INFO  Hooks:18 - Driver is successfully started

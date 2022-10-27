@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: We are testing background keyword in this file
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 44.893 s <<< FAILURE! - in We are testing background keyword in this file
+We are testing background keyword in this file.Adding new employee-create login details  Time elapsed: 18.209 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//h1[.='Personal Details']"}
+  (Session info: chrome=106.0.5249.119)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jacquelines-MacBook-Air.local', ip: '2601:646:4100:2a0:8414:3d93:b4f2:ba17%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.5.1', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: /var/folders/xz/12dlj9c50f5...}, goog:chromeOptions: {debuggerAddress: localhost:61546}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ef712712c3ddea08d03a6d5f3eca310b
+*** Element info: {Using=xpath, value=//h1[.='Personal Details']}
+
