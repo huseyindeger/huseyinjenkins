@@ -109,6 +109,7 @@ Feature: Functional testing on Orange HRM
       |Serjnsd   |1454jdfd|Disabled|huseyin  |deger    |
 
 
+
   @Scenario_Outline3
   Scenario Outline: Adding new nationalities to nationalities Page
     Given The user wants to go to OrangeHRM Website

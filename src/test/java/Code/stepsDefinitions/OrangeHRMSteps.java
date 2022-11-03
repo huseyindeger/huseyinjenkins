@@ -103,6 +103,7 @@ public class OrangeHRMSteps extends BrowserUtils {
         orangeHRMHome.setFirstName(dataTable.get(0).get(0));
         orangeHRMHome.setLastName(dataTable.get(0).get(1));
     }
+
     @Then("The user wants to add Login in a  List way")
     public void the_user_wants_to_add_login_in_a_list_way(List<List<String>> dataTable) {
         orangeHRMHome.setCreateLoginButton();

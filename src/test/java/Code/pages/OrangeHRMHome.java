@@ -63,6 +63,7 @@ public class OrangeHRMHome  extends BrowserUtils {
         firstName.sendKeys(firstname);
         logger.info(firstname+" is successfully entered");
 
+
     }
 
     public void setLastName(String lastname) {
